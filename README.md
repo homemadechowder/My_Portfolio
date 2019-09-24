@@ -1,6 +1,6 @@
 ## My Portfolio
 
-A template of README best practices to make your README simple to understand and easy to use. 
+This README contains information about how this Portfolio is made with snippets of code and demos.
 
 ## Table of Contents (Placeholder for technologies)
 
