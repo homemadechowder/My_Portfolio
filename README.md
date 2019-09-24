@@ -1,54 +1,42 @@
-![](logo.png)
-MY PORTFOLIO
-=======================================
+## My Portfolio
 
-Intro - Boilerplate for Readme.md on Github
+A template of README best practices to make your README simple to understand and easy to use. 
 
-* * *
+## Table of Contents (Placeholder for technologies)
 
-This project is primarily making a platform to put my work and to showcase my ability as a web developer.
+- [Installation](#installation)
+- [Usage](#usage)
+- [Support](#support)
+- [Contributing](#contributing)
 
+## Installation (Placeholder for code snippets)
 
-### List of features
+Download to your project directory, add `README.md`, and commit:
 
-*   Beautiful Starter Template for README.md
-*   Key feature num. 2
-*   Key feature num. 3
-*   Key feature num. 4
-
-### Demo -> Show me what you got
-
-[Link to your awesome Demo](#) 
-Demo pic here:
-
-[Another Link to your awesome Demo](#)
-Another Demo pick here:
-
-### Code Demo
-
-```html We will use markdown for the Syntax Highlighting
-
-<li>Beautiful Starter Template for README.md</li>
-<li>Key feature num. 2</li>
-<li>Key feature num. 3</li>
-<li>Key feature num. 4</li>
-
+```sh
+curl -LO http://git.io/Xy0Chg
+git add README.md
+git commit -m "Use README Boilerplate"
 ```
 
-### Download & Installation
+## Usage (Placeholder for contents and descriptions)
 
-```shell 
-$ npm i boilerplate-readme-template 
-```
+Replace the contents of `README.md` with your project's:
 
-### Contributing
+- Name
+- Description
+- Installation instructions
+- Usage instructions
+- Support instructions
+- Contributing instructions
 
-Keep it simple. Keep it minimal. Don't put every single feature just because you can.
+Feel free to remove any sections that aren't applicable to your project.
 
-### Authors or Acknowledgments
 
-*   Andrew Lu
+## Support
 
-### License
+Please [open an issue](https://github.com/fraction/readme-boilerplate/issues/new) for support.
 
-This project is licensed under the MIT License
+## Contributing
+
+Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/fraction/readme-boilerplate/compare/).
