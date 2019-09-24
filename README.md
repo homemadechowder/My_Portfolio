@@ -1,13 +1,13 @@
 ![](logo.png)
-
-Project Title - Readme.md HTML Template
+MY PORTFOLIO
 =======================================
 
 Intro - Boilerplate for Readme.md on Github
 
 * * *
 
-Describe you project -> I hate to always "reinvent" README.md on GitHub that is why I decided to make this Starter README.md template. Also I prefer HTML syntax because I use HTML every day and it has some extra features like center the elements.
+This project is primarily making a platform to put my work and to showcase my ability as a web developer.
+
 
 ### List of features
 
@@ -19,8 +19,10 @@ Describe you project -> I hate to always "reinvent" README.md on GitHub that is 
 ### Demo -> Show me what you got
 
 [Link to your awesome Demo](#) 
+Demo pic here:
 
 [Another Link to your awesome Demo](#)
+Another Demo pick here:
 
 ### Code Demo
 
@@ -45,7 +47,7 @@ Keep it simple. Keep it minimal. Don't put every single feature just because you
 
 ### Authors or Acknowledgments
 
-*   Vladimir Carrer
+*   Andrew Lu
 
 ### License
 
